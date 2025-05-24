@@ -26,8 +26,8 @@ To write a python program to find the maximum contiguous subarray.
 
 ## Program :
 
-### Developed by: Koti Sai Sankar
-### Register Number:  212222240111
+### Developed by: Alluguri Srikrishna Teja
+### Register Number:  212222040006
 
 ```
 def maxSubArraySum(a,size):
