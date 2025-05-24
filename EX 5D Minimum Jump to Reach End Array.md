@@ -26,8 +26,8 @@ To write a python program for finding the minimum number of jumps needed to reac
 
 ## Program :
 
-### Developed by: Koti Sai Sankar
-### Register Number:  212222240111
+### Developed by: Alluguri Srikrishna Teja
+### Register Number:  212222040006
 
 ```
 def minJumps(arr, n):
